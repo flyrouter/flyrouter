@@ -1,17 +1,7 @@
-### Hi there 👋
+[![OpenIPC logo][logo]][site_basic]
 
-- 🔭 I’m currently working on OpenIPC.org
-- 💬 Ask me about embedded devices with Linux
+### My name is Igor. 
+### I am the founder and coordinator of the [OpenIPC](https://openipc.org) project.
 
-<!--
-**FlyRouter/flyrouter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[logo]: https://openipc.org/assets/openipc-logo-black.svg
+[site_basic]: https://openipc.org
