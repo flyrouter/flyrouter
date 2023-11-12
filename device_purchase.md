@@ -11,7 +11,9 @@
 #### GK7205V300 + IMX335 + NOR board from XiongMai
 
 - [https://www.aliexpress.com/item/1005005909727046.html](https://www.aliexpress.com/item/1005005909727046.html)
+- [https://www.aliexpress.com/item/1005003445205779.html](https://www.aliexpress.com/item/1005003445205779.html)
 - [https://www.aliexpress.com/item/33015015652.html](https://www.aliexpress.com/item/33015015652.html)
+
 
 #### HI3536DV100 NVR board from XiongMai
 
