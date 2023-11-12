@@ -25,6 +25,11 @@
 - [https://www.aliexpress.com/item/1005005604902959.html](https://www.aliexpress.com/item/1005005604902959.html)
 
 
+#### GK7205V210 + SC5239S + NOR board from XiongMai
+
+- [https://www.aliexpress.com/item/1005002782639306.html](https://www.aliexpress.com/item/1005002782639306.html)
+
+
 #### HI3536DV100 NVR board from XiongMai
 
 - [https://www.aliexpress.com/item/1005004023376532.html](https://www.aliexpress.com/item/1005004023376532.html)
