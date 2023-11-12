@@ -6,7 +6,10 @@
 #### SSC338Q + IMX415 + NOR board from Anjoy
 
 - [https://www.aliexpress.com/item/1005004350557805.html](https://www.aliexpress.com/item/1005004350557805.html)
-- 
+
+#### SSC338Q + IMX415 + NAND board from CamHi
+
+- [https://www.aliexpress.com/item/1005005750013595.html](https://www.aliexpress.com/item/1005005750013595.html)
 
 #### GK7205V300 + IMX335 + NOR board from XiongMai
 
@@ -15,6 +18,10 @@
 - [https://www.aliexpress.com/item/1005002345471331.html](https://www.aliexpress.com/item/1005002345471331.html)
 - [https://www.aliexpress.com/item/33015015652.html](https://www.aliexpress.com/item/33015015652.html)
 
+
+#### GK7205V200 + IMX307 + NOR board from CamHi
+
+- [https://www.aliexpress.com/item/1005005604902959.html](https://www.aliexpress.com/item/1005005604902959.html)
 
 
 #### HI3536DV100 NVR board from XiongMai
