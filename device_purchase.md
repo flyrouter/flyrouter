@@ -42,9 +42,18 @@
 #### HI3536DV100 NVR board from XiongMai
 
 - [https://www.aliexpress.com/item/1005004023376532.html](https://www.aliexpress.com/item/1005004023376532.html)
--
 
 
+#### Atheros AR9271 Wireless USB dongle
+
+- [https://www.aliexpress.com/item/1005005549368359.html](https://www.aliexpress.com/item/1005005549368359.html)
+
+
+#### Realtek RTL8812AU Wireless USB module
+
+- [https://www.aliexpress.com/item/1005005638445796.html](https://www.aliexpress.com/item/1005005638445796.html)
+- [https://www.aliexpress.com/item/4000280437562.html](https://www.aliexpress.com/item/4000280437562.html)
+- [~~https://www.aliexpress.com/item/1005005876431915.html~~](https://www.aliexpress.com/item/1005005876431915.html)
 
 
 [logo]: https://openipc.org/assets/openipc-logo-black.svg
