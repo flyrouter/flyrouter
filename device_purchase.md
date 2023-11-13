@@ -43,11 +43,13 @@
 #### HI3536DV100 NVR board from XiongMai
 
 - [https://www.aliexpress.com/item/1005004023376532.html](https://www.aliexpress.com/item/1005004023376532.html)
+- [https://www.aliexpress.com/item/1005002358182146.html](https://www.aliexpress.com/item/1005002358182146.html)
 
 
 #### Atheros AR9271 Wireless USB dongle
 
 - [https://www.aliexpress.com/item/1005005549368359.html](https://www.aliexpress.com/item/1005005549368359.html)
+- [https://www.aliexpress.com/item/1005005980752966.html](https://www.aliexpress.com/item/1005005980752966.html)
 
 
 #### Realtek RTL8812AU Wireless USB dongle
