@@ -12,6 +12,7 @@
 #### SSC338Q + IMX415 + NAND board from CamHi
 
 - [https://www.aliexpress.com/item/1005005750013595.html](https://www.aliexpress.com/item/1005005750013595.html)
+- [https://www.aliexpress.com/item/1005002879158570.html](https://www.aliexpress.com/item/1005002879158570.html)
 
 
 #### GK7205V300 + IMX335 + NOR board from XiongMai
@@ -54,6 +55,11 @@
 - [https://www.aliexpress.com/item/1005005638445796.html](https://www.aliexpress.com/item/1005005638445796.html)
 - [https://www.aliexpress.com/item/4000280437562.html](https://www.aliexpress.com/item/4000280437562.html)
 - [~~https://www.aliexpress.com/item/1005005876431915.html~~](https://www.aliexpress.com/item/1005005876431915.html)
+
+#### M12 lenses without mechanical switch
+
+- [https://www.aliexpress.com/item/1005002327770374.html](https://www.aliexpress.com/item/1005002327770374.html)
+- [https://www.aliexpress.com/item/33050391945.html](https://www.aliexpress.com/item/33050391945.html)
 
 
 [logo]: https://openipc.org/assets/openipc-logo-black.svg
