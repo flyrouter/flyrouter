@@ -50,16 +50,26 @@
 - [https://www.aliexpress.com/item/1005005549368359.html](https://www.aliexpress.com/item/1005005549368359.html)
 
 
+#### Realtek RTL8812AU Wireless USB dongle
+
+- [https://www.aliexpress.com/item/1005005856548935.html](https://www.aliexpress.com/item/1005005856548935.html)
+
+
 #### Realtek RTL8812AU Wireless USB module
 
 - [https://www.aliexpress.com/item/1005005638445796.html](https://www.aliexpress.com/item/1005005638445796.html)
 - [https://www.aliexpress.com/item/4000280437562.html](https://www.aliexpress.com/item/4000280437562.html)
 - [~~https://www.aliexpress.com/item/1005005876431915.html~~](https://www.aliexpress.com/item/1005005876431915.html)
 
-#### M12 lenses without mechanical switch
+#### M12 lenses mount holder without mechanical switch
 
 - [https://www.aliexpress.com/item/1005002327770374.html](https://www.aliexpress.com/item/1005002327770374.html)
 - [https://www.aliexpress.com/item/33050391945.html](https://www.aliexpress.com/item/33050391945.html)
+- [https://www.aliexpress.com/item/4000861661180.html](https://www.aliexpress.com/item/4000861661180.html)
+
+#### M12 lenses mount holder with mechanical switch
+
+- [https://www.aliexpress.com/item/1005002514735488.html](https://www.aliexpress.com/item/1005002514735488.html)
 
 
 [logo]: https://openipc.org/assets/openipc-logo-black.svg
