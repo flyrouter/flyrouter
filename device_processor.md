@@ -7,6 +7,7 @@
 
 - [https://github.com/guino/Merkury1080P](https://github.com/guino/Merkury1080P)
 - [https://github.com/guino/Merkury720](https://github.com/guino/Merkury720)
+- [https://github.com/ThatUsernameAlreadyExist/TECKIN-TC100-Anyka-AK3918-camera-hacks](https://github.com/ThatUsernameAlreadyExist/TECKIN-TC100-Anyka-AK3918-camera-hacks)
 
 
 #### HiSilicon
