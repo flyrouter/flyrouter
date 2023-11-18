@@ -9,6 +9,16 @@
 - [https://github.com/guino/Merkury720](https://github.com/guino/Merkury720)
 
 
+#### HiSilicon
+
+- [https://www.cnx-software.com/2020/09/02/via-pixetto-hi3518e-v300-hd-camera-board-targets-artificial-intelligence-and-machine-learning-education/](https://www.cnx-software.com/2020/09/02/via-pixetto-hi3518e-v300-hd-camera-board-targets-artificial-intelligence-and-machine-learning-education/)
+
+
+#### SigmaStar
+
+- [https://www.cnx-software.com/2021/05/05/sigmastar-ssc33x-camera-soc-pin-to-pin-compatible-hisilicon-hi3516-hi3518/](https://www.cnx-software.com/2021/05/05/sigmastar-ssc33x-camera-soc-pin-to-pin-compatible-hisilicon-hi3516-hi3518/)
+
+
 
 [logo]: https://openipc.org/assets/openipc-logo-black.svg
 [site_basic]: https://openipc.org
