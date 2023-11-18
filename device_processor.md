@@ -18,6 +18,7 @@
 #### SigmaStar
 
 - [https://www.cnx-software.com/2021/05/05/sigmastar-ssc33x-camera-soc-pin-to-pin-compatible-hisilicon-hi3516-hi3518/](https://www.cnx-software.com/2021/05/05/sigmastar-ssc33x-camera-soc-pin-to-pin-compatible-hisilicon-hi3516-hi3518/)
+- [https://wx.comake.online/doc/doc/SigmaStarDocs-Pudding-0120/index.html](https://wx.comake.online/doc/doc/SigmaStarDocs-Pudding-0120/index.html)
 
 
 
