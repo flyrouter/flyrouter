@@ -44,6 +44,7 @@
 
 - [https://www.aliexpress.com/item/1005004023376532.html](https://www.aliexpress.com/item/1005004023376532.html)
 - [https://www.aliexpress.com/item/1005002358182146.html](https://www.aliexpress.com/item/1005002358182146.html)
+- [~~https://aliexpress.com/item/1005004005557390.html~~](https://aliexpress.com/item/1005004005557390.html) - The seller is an asshole, instead of HiSilicon hi3516dv100 he sends SigmaStar devices
 
 
 #### Atheros AR9271 Wireless USB dongle
