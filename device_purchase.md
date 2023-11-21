@@ -11,7 +11,7 @@
 
 #### SSC338Q + IMX415 + NAND board from CamHi
 
-- [https://www.aliexpress.com/item/1005005750013595.html](https://www.aliexpress.com/item/1005005750013595.html)
+- [https://www.aliexpress.com/item/1005005750013595.html](https://www.aliexpress.com/item/1005005750013595.html) - a good choice
 - [https://www.aliexpress.com/item/1005002879158570.html](https://www.aliexpress.com/item/1005002879158570.html)
 
 
