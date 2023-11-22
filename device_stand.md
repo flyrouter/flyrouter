@@ -7,6 +7,8 @@
 
 - [172.17.32.230 | SSC333 + SC3338 | TP-Link TAPO C110](http://172.17.32.230:85/cgi-bin/preview.cgi)
 - [172.17.32.233 | T31L + IMX307 | EnZhi board, for Convoy project](http://172.17.32.233:85/cgi-bin/preview.cgi)
+* -
+- [172.17.32.246 | GK7205V210 + SC223A | IPC_GK7205V200_G4F_S38_000659N7](http://172.17.32.246/uuid.html)
 
 
 #### OpenIPC lab. via tunnel
