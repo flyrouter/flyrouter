@@ -15,6 +15,11 @@
 - [https://www.cnx-software.com/2020/09/02/via-pixetto-hi3518e-v300-hd-camera-board-targets-artificial-intelligence-and-machine-learning-education/](https://www.cnx-software.com/2020/09/02/via-pixetto-hi3518e-v300-hd-camera-board-targets-artificial-intelligence-and-machine-learning-education/)
 
 
+#### Realtek
+
+- [https://github.com/cronyx/rsdk/](https://github.com/cronyx/rsdk/)
+
+
 #### SigmaStar
 
 - [https://www.cnx-software.com/2021/05/05/sigmastar-ssc33x-camera-soc-pin-to-pin-compatible-hisilicon-hi3516-hi3518/](https://www.cnx-software.com/2021/05/05/sigmastar-ssc33x-camera-soc-pin-to-pin-compatible-hisilicon-hi3516-hi3518/)
