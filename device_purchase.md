@@ -46,6 +46,9 @@
 - [https://www.aliexpress.com/item/1005002358182146.html](https://www.aliexpress.com/item/1005002358182146.html)
 - [~~https://www.aliexpress.com/item/1005004005557390.html~~](https://www.aliexpress.com/item/1005004005557390.html) - The f*cked seller instead of HiSilicon he sends SigmaStar device
 
+#### A1 NVR board from Ingenic
+
+- [https://www.aliexpress.com/item/1005005445434790.html](https://www.aliexpress.com/item/1005005445434790.html)
 
 #### Atheros AR9271 Wireless USB dongle
 
