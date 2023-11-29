@@ -44,6 +44,7 @@
 
 - [https://www.aliexpress.com/item/1005004023376532.html](https://www.aliexpress.com/item/1005004023376532.html)
 - [https://www.aliexpress.com/item/1005002358182146.html](https://www.aliexpress.com/item/1005002358182146.html)
+- [https://www.aliexpress.com/item/1005004023525080.html](https://www.aliexpress.com/item/1005004023525080.html)
 - [~~https://www.aliexpress.com/item/1005004005557390.html~~](https://www.aliexpress.com/item/1005004005557390.html) - The f*cked seller instead of HiSilicon he sends SigmaStar device
 
 #### A1 NVR board from Ingenic
