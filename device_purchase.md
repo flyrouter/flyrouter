@@ -18,8 +18,8 @@
 #### GK7205V300 + IMX335 + NOR board from XiongMai
 
 - [https://www.aliexpress.com/item/1005005909727046.html](https://www.aliexpress.com/item/1005005909727046.html)
-- [https://www.aliexpress.com/item/1005003445205779.html](https://www.aliexpress.com/item/1005003445205779.html)
-- [https://www.aliexpress.com/item/1005002345471331.html](https://www.aliexpress.com/item/1005002345471331.html)
+- [https://www.aliexpress.com/item/1005003445205779.html](https://www.aliexpress.com/item/1005003445205779.html) - not suitable for FPV due to missing USB
+- [https://www.aliexpress.com/item/1005002345471331.html](https://www.aliexpress.com/item/1005002345471331.html) - not suitable for FPV due to missing USB
 - [https://www.aliexpress.com/item/33015015652.html](https://www.aliexpress.com/item/33015015652.html)
 
 
