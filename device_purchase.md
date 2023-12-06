@@ -47,9 +47,18 @@
 - [https://www.aliexpress.com/item/1005004023525080.html](https://www.aliexpress.com/item/1005004023525080.html)
 - [~~https://www.aliexpress.com/item/1005004005557390.html~~](https://www.aliexpress.com/item/1005004005557390.html) - The f*cked seller instead of HiSilicon he sends SigmaStar device
 
+
+#### Zoom cameras
+
+- [https://www.aliexpress.com/item/1005005750234415.html](https://www.aliexpress.com/item/1005005750234415.html)
+- [https://www.aliexpress.com/item/1005005869592850.html](https://www.aliexpress.com/item/1005005869592850.html) - Support Visca also
+- [https://www.aliexpress.com/item/1005004347125837.html](https://www.aliexpress.com/item/1005004347125837.html)
+
+
 #### A1 NVR board from Ingenic
 
 - [https://www.aliexpress.com/item/1005005445434790.html](https://www.aliexpress.com/item/1005005445434790.html)
+
 
 #### Atheros AR9271 Wireless USB dongle
 
@@ -68,15 +77,38 @@
 - [https://www.aliexpress.com/item/4000280437562.html](https://www.aliexpress.com/item/4000280437562.html)
 - [~~https://www.aliexpress.com/item/1005005876431915.html~~](https://www.aliexpress.com/item/1005005876431915.html)
 
+
+#### Mediatek MT7601U Wireless USB module
+
+- [https://www.aliexpress.com/item/1005004349905608.html](https://www.aliexpress.com/item/1005004349905608.html)
+
+
 #### M12 lenses mount holder without mechanical switch
 
 - [https://www.aliexpress.com/item/1005002327770374.html](https://www.aliexpress.com/item/1005002327770374.html)
 - [https://www.aliexpress.com/item/33050391945.html](https://www.aliexpress.com/item/33050391945.html)
 - [https://www.aliexpress.com/item/4000861661180.html](https://www.aliexpress.com/item/4000861661180.html)
 
+
 #### M12 lenses mount holder with mechanical switch
 
 - [https://www.aliexpress.com/item/1005002514735488.html](https://www.aliexpress.com/item/1005002514735488.html)
+
+
+#### XM modules
+
+- [https://www.aliexpress.com/item/32990659206.html](https://www.aliexpress.com/item/32990659206.html)
+
+
+#### Ethernet switch
+
+- [https://www.aliexpress.com/item/1005005539317409.html](https://www.aliexpress.com/item/1005005539317409.html)
+
+
+#### AHD/CVBS to IPCam
+
+- [https://www.aliexpress.com/item/1005006001397221.html](https://www.aliexpress.com/item/1005006001397221.html)
+
 
 
 [logo]: https://openipc.org/assets/openipc-logo-black.svg
