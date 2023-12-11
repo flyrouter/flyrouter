@@ -10,7 +10,7 @@
 | [172.19.32.217](http://172.19.32.217:85/cgi-bin/preview.cgi) | Imou IPC-C22EP-S2  | SSC325DE      | SC2239      | RTL8188FU | No       | NAND    |
 | [172.19.32.218](http://172.19.32.218:85/cgi-bin/preview.cgi) | Imou IPC-F22AP     | SSC325        | SC2239      | No        | Yes      | NOR_?   |
 | [172.19.32.219](http://172.19.32.219:85/cgi-bin/preview.cgi) | Uniview C1L-2WN-G  | SSC335DE      | OS02G10     | RTL8188FU | Yes      | NOR_16M |
-| [172.19.32.220](http://172.19.32.217:85/cgi-bin/preview.cgi) | Imou IPC-C22EP-S2  | SSC325DE      | SC2235      | RTL8188FU | No       | NAND    |
+| [172.19.32.220](http://172.19.32.220:85/cgi-bin/preview.cgi) | Imou IPC-C22EP-S2  | SSC325DE      | SC2235      | RTL8188FU | No       | NAND    |
 | [172.19.32.221](http://172.19.32.221:85/cgi-bin/preview.cgi) | Meari Speed 6S     | SSC333        | JXF37       | RTL8188FU | No       | NOR_16M |    
 
 
