@@ -5,14 +5,15 @@
 
 #### OpenIPC lab. tunnel access
 
-| Access                                                       | Model                  | Processor     | Sensor      |  WiFi          | Ethernet | Flash   |
-| :----------------------------------------------------------: | :--------------------: | :-----------: | :---------: | :------------: | :------: | :-----: |
-| [172.19.32.217](http://172.19.32.217:85/cgi-bin/preview.cgi) | Imou IPC-C22EP-S2      | SSC325DE      | SC2239      | RTL8188FU_USB  | No       | NAND    |
-| [172.19.32.218](http://172.19.32.218:85/cgi-bin/preview.cgi) | Imou IPC-F22AP         | SSC325        | SC2239      | No             | Yes      | NOR_?   |
-| [172.19.32.219](http://172.19.32.219:85/cgi-bin/preview.cgi) | Uniview C1L-2WN-G      | SSC335DE      | OS02G10     | RTL8188FU_USB  | Yes      | NOR_16M |
-| [172.19.32.220](http://172.19.32.220:85/cgi-bin/preview.cgi) | Imou IPC-C22EP-S2      | SSC325DE      | ~SC2235~    | RTL8188FU_USB  | No       | NAND    |
-| [172.19.32.221](http://172.19.32.221:85/cgi-bin/preview.cgi) | Meari Speed 6S         | SSC333        | JXF37       | RTL8188FU_USB  | No       | NOR_16M |  
-| [172.19.32.222](http://172.19.32.222:85/cgi-bin/preview.cgi) | TP-Link Tapo C110 v2   | SSC333        | SC3338      | RTL8188FU_USB  | No       | NOR_8M  | 
+| Access                                                       | Model                     | Processor     | Sensor      |  WiFi          | Ethernet | Flash   |
+| :----------------------------------------------------------: | :-----------------------: | :-----------: | :---------: | :------------: | :------: | :-----: |
+| [172.19.32.217](http://172.19.32.217:85/cgi-bin/preview.cgi) | Imou IPC-C22EP-S2         | SSC325DE      | SC2239      | RTL8188FU_USB  | No       | NAND    |
+| [172.19.32.218](http://172.19.32.218:85/cgi-bin/preview.cgi) | Imou IPC-F22AP            | SSC325        | SC2239      | No             | Yes      | NOR_?   |
+| [172.19.32.219](http://172.19.32.219:85/cgi-bin/preview.cgi) | Uniview C1L-2WN-G         | SSC335DE      | OS02G10     | RTL8188FU_USB  | Yes      | NOR_16M |
+| [172.19.32.220](http://172.19.32.220:85/cgi-bin/preview.cgi) | Imou IPC-C22EP-S2         | SSC325DE      | ~SC2235~    | RTL8188FU_USB  | No       | NAND    |
+| [172.19.32.221](http://172.19.32.221:85/cgi-bin/preview.cgi) | Meari Speed 6S            | SSC333        | JXF37       | RTL8188FU_USB  | No       | NOR_16M |  
+| [172.19.32.222](http://172.19.32.222:85/cgi-bin/preview.cgi) | TP-Link Tapo C110 v2      | SSC333        | SC3338      | RTL8188FU_USB  | No       | NOR_8M  | 
+| [172.19.32.223](http://172.19.32.223:85/cgi-bin/preview.cgi) | ChinaTelecom DS-YTJ5301   | SSC30KD       | GC2053      | RTL8188FU_USB  | Yes      | NOR_16M |
 
 
 #### OpenIPC lab. local access
