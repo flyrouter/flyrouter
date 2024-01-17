@@ -2,6 +2,13 @@
 
 ## Table of contents
 
+#### Docs
+
+- https://docs.openipc.org/getting-started/introduction/
+
+#### FPV
+
+- https://github.com/keyldev/fpv-info/blob/main/readme.md
 
 #### Ingenic
 
