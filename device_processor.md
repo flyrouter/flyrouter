@@ -14,6 +14,9 @@
 
 - [https://www.cnx-software.com/2020/09/02/via-pixetto-hi3518e-v300-hd-camera-board-targets-artificial-intelligence-and-machine-learning-education/](https://www.cnx-software.com/2020/09/02/via-pixetto-hi3518e-v300-hd-camera-board-targets-artificial-intelligence-and-machine-learning-education/)
 
+#### Ingenic
+
+- https://github.com/iesah/IPC-SDK
 
 #### Realtek
 
