@@ -2,6 +2,8 @@
 
 ## OpenIPC URLLC device
 
+URLLC - Ultra-Reliable Low Latency Communications
+
 ### Questions and answers
 
 - Availability of sales from various platforms Amazon, Aliexpress, eBay and others
