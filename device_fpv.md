@@ -4,8 +4,12 @@
 
 ### Questions and answers
 
+- Availability of sales from various platforms Amazon, Aliexpress, eBay and others
+- Set options and equipment, for beginners and experts
 - Installing OpenIPC firmware on the device before sale
+- Using the 2.4 GHz and 5.8 GHz bands for operation
 - Using a directional coupler to turn off the transmitter if there is no antenna
+
 
 
 [![OpenIPC][site]][site_basic]  [![Telegram][chat]][telegram_fpv]
