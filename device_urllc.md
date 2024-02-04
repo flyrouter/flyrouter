@@ -15,10 +15,10 @@ URLLC - Ultra-Reliable Low Latency Communications
 
 
 
-[![OpenIPC][site]][site_basic]  [![Telegram][chat]][telegram_fpv]
+[![OpenIPC][site]][site_basic]  [![Telegram][chat]][telegram_urllc]
 
 [logo]: https://openipc.org/assets/openipc-logo-black.svg
 [chat]: https://openipc.org/images/telegram_button.svg
 [site]: https://openipc.org/images/openipc_button.svg
 [site_basic]: https://openipc.org
-[telegram_fpv]: https://t.me/+BMyMoolVOpkzNWUy
+[telegram_urllc]: https://t.me/+BMyMoolVOpkzNWUy
