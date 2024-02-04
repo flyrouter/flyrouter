@@ -1,6 +1,6 @@
 ![OpenIPC logo][logo]
 
-## OpenIPC FPV device
+## OpenIPC URLLC device
 
 ### Questions and answers
 
