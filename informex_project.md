@@ -2,13 +2,14 @@
 
 ## Informex | Project
 
-#### Alfonso
-- https://github.com/gtxaspec/raptor
-- https://github.com/gtxaspec/libimp_control
+#### Alfonso, @gtxaspec
 - https://github.com/gtxaspec/jz-diag-tools
+- https://github.com/gtxaspec/libimp_control
+- https://github.com/gtxaspec/prudynt-t
+- https://github.com/gtxaspec/raptor
 - https://github.com/gtxaspec/u-boot-ingenic
 
-#### Gee He
+#### Gee He, @gehee
 - https://github.com/gehee/FPVue_android
 - https://github.com/gehee/FPVue_rk
 
@@ -18,7 +19,7 @@
 #### Other
 - https://github.com/libc0607/rtl8733bu-20230626
 
-#### Paul
+#### Paul, @themactep
 - https://github.com/themactep/thingino-firmware
 - https://github.com/themactep/thingino-webui
 - https://github.com/themactep/thingino-linux
