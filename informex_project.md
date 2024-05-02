@@ -12,6 +12,9 @@
 - https://github.com/gehee/FPVue_android
 - https://github.com/gehee/FPVue_rk
 
+#### Other
+- https://github.com/libc0607/rtl8733bu-20230626
+
 #### Paul
 - https://github.com/themactep/thingino-firmware
 - https://github.com/themactep/thingino-webui
