@@ -23,6 +23,11 @@
 * -
 - [172.17.32.246 | GK7205V210 + SC223A | IPC_GK7205V200_G4F_S38_000659N7](http://172.17.32.246/uuid.html)
 
+#### Global Tunnel
+
+- http://44.188.200.199:85   # Tigressa
+
+
 
 [logo]: https://openipc.org/assets/openipc-logo-black.svg
 [site_basic]: https://openipc.org
