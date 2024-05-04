@@ -12,6 +12,7 @@
 #### Gee He, @gehee
 - https://github.com/gehee/FPVue_android
 - https://github.com/gehee/FPVue_rk
+- https://github.com/gehee/FPVue_xr
 
 #### OpenHD
 - https://github.com/OpenHD/Documentation/blob/evo/general/OpenHD-vs-Alternatives.md - is not true and needs to be corrected
