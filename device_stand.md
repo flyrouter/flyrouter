@@ -25,7 +25,7 @@
 #### Other
 
 - http://172.17.32.250:85    # hi3518ev200 + jxf22 (hs303v1)
-- http://172.19.32.214       # ssc325 + imx307
+- http://172.19.32.214       # ssc325 + imx307 (anjoy)
 
 
 #### Global Tunnel
