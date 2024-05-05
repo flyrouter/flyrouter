@@ -20,8 +20,13 @@
 
 - [172.17.32.230 | SSC333 + SC3338 | TP-Link TAPO C110](http://172.17.32.230:85/cgi-bin/preview.cgi)
 - [172.17.32.233 | T31L + IMX307 | EnZhi board, for Convoy project](http://172.17.32.233:85/cgi-bin/preview.cgi)
-* -
 - [172.17.32.246 | GK7205V210 + SC223A | IPC_GK7205V200_G4F_S38_000659N7](http://172.17.32.246/uuid.html)
+
+#### Other
+
+- http://172.17.32.250:85    # hi3518ev200 + jxf22 (hs303v1)
+- http://172.19.32.214       # ssc325 + imx307
+
 
 #### Global Tunnel
 
