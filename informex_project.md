@@ -2,12 +2,12 @@
 
 ## Informex | Project
 
-#### Alfonso, @gtxaspec
-- https://github.com/gtxaspec/jz-diag-tools
-- https://github.com/gtxaspec/libimp_control
-- https://github.com/gtxaspec/prudynt-t
-- https://github.com/gtxaspec/raptor
-- https://github.com/gtxaspec/u-boot-ingenic
+### OpenIPC community
+
+#### Members
+
+- https://github.com/OpenIPC/fancyweb-ng/commits/dev/
+- https://github.com/wberube/openipc-mini/commits/master/
 
 #### Gee He, @gehee
 - https://github.com/gehee/FPVue_android
@@ -19,6 +19,24 @@
 
 #### Other
 - https://github.com/libc0607/rtl8733bu-20230626
+
+
+
+### Thingino community
+
+#### Alfonso, @gtxaspec
+- https://github.com/gtxaspec/jz-diag-tools
+- https://github.com/gtxaspec/libimp_control
+- https://github.com/gtxaspec/prudynt-t
+- https://github.com/gtxaspec/raptor
+- https://github.com/gtxaspec/u-boot-ingenic
+
+#### @CapnRon
+
+- https://github.com/CapnRon
+- https://github.com/CapnRon/Teacup
+- https://ronshed.com/product/t31x-wyze-cam-pan-v3-unlocked-soc-with-thingino-firmware/
+- https://github.com/gtxaspec/wz_mini_hacks/discussions/764
 
 #### Paul, @themactep
 - https://github.com/themactep/thingino-firmware
