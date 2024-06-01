@@ -2,17 +2,13 @@
 
 ## Device purchase
 
-
 #### SSC338Q + IMX415 + NOR board from Anjoy
-
-- [https://www.aliexpress.com/item/1005004350557805.html](https://www.aliexpress.com/item/1005004350557805.html)
-- [https://www.aliexpress.com/item/1005003738087454.html](https://www.aliexpress.com/item/1005003738087454.html)
-
+- https://www.aliexpress.com/item/1005004350557805.html
+- https://www.aliexpress.com/item/1005003738087454.html
 
 #### SSC338Q + IMX415 + NAND board from CamHi
-
-- [https://www.aliexpress.com/item/1005005750013595.html](https://www.aliexpress.com/item/1005005750013595.html) - a good choice
-- [https://www.aliexpress.com/item/1005002879158570.html](https://www.aliexpress.com/item/1005002879158570.html)
+- https://www.aliexpress.com/item/1005005750013595.html
+- https://www.aliexpress.com/item/1005002879158570.html
 
 
 #### GK7205V300 + IMX335 + NOR board from XiongMai
