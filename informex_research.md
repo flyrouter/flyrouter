@@ -13,6 +13,10 @@
 | Anjoy       | YM200J2    | MSC313E    |            | single     |
 | Anjoy       | MC200J6    | SSC325     |            | single     |
 | Anjoy       | MS-J10     | SSC335     |            | single     | 
+| Anjoy       | MC-F40     | SSC337     |            | single     |
+| Anjoy       | MC-L12     |            |            | single     |
+| Anjoy       | YM500L8    |            |            | single     |
+| Anjoy       | YM-J10D    |            |            | single     |
 
 
 [logo]: https://openipc.org/assets/openipc-logo-black.svg
