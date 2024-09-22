@@ -30,10 +30,12 @@
 | XiongMai              | G6S                  |            |            | single     |            |            |
 
 
-
 [logo]: https://openipc.org/assets/openipc-logo-black.svg
 [site_basic]: https://openipc.org
 [telegram_en]: https://t.me/OpenIPC
 
-[vendor_vatilon]: https://www.vatilon.cn/ 
 
+[vendor_anjoy]: http://www.icamra.cn/
+[vendor_anjoy_firmware]: http://www.icamra.cn:8021/firmware/online/public/
+[vendor_anjoy_docs]: http://www.icamra.cn:8021/pdf/?C=M;O=D
+[vendor_vatilon]: https://www.vatilon.cn/
