@@ -5,14 +5,15 @@
 
 #### Table of boards
 
-| Vendor                | Model                | Processor  | Sensor     | Notes      | Status     | Found      |
+| Vendor                | Model                | Processor  | Sensor     | Board      | Status     | Found      |
 |:--------------------: |:--------------------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| Anjoy                 | MC-L12B              | SSC30KQ    | IMX335     | single     |            |            |
+| Anjoy                 | MC-L12B              | SSC30KQ    | IMX335     | single     | ready      |            |
 | Anjoy                 | MC-L12D              |            |            | single     |            |            |
-| Anjoy                 | MC800S(-v3)          | SSC338Q    | IMX415     | dual       |            |            |
+| Anjoy                 | MC800S               | SSC338Q    | IMX415     | dual       | ready      |            |
+| Anjoy                 | MC800S-v3            | SSC338Q    | IMX415     | dual       | ready      |            |
 | Anjoy                 | YM200J2              | MSC313E    |            | single     |            |            |
 | Anjoy                 | MC200J6              | SSC325     |            | single     |            |            |
-| Anjoy                 | MS-J10               | SSC335     |            | single     |            |            |
+| Anjoy                 | MS-J10               | SSC335     |            | single     | ready      |            |
 | Anjoy                 | MC-F40               | SSC337     |            | single     |            |            |
 | Anjoy                 | MC-L12               |            |            | single     |            |            |
 | Anjoy                 | YM500L8              |            |            | single     |            |            |
