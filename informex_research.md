@@ -17,6 +17,12 @@
 | Anjoy       | MC-L12     |            |            | single     |
 | Anjoy       | YM500L8    |            |            | single     |
 | Anjoy       | YM-J10D    |            |            | single     |
+|             |            |            |            |            |
+| XiongMai    | G4         |            |            | single     |
+| XiongMai    | G4F        |            |            | single     |
+| XiongMai    | G4F-A      |            |            | single     |
+| XiongMai    | G6S        |            |            | single     |
+
 
 
 [logo]: https://openipc.org/assets/openipc-logo-black.svg
