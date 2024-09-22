@@ -34,3 +34,6 @@
 [logo]: https://openipc.org/assets/openipc-logo-black.svg
 [site_basic]: https://openipc.org
 [telegram_en]: https://t.me/OpenIPC
+
+[vendor_vatilon]: https://www.vatilon.cn/ 
+
