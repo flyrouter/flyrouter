@@ -18,8 +18,8 @@
 | Anjoy                 | MC-L12               |            |            | single     |            |            |
 | Anjoy                 | YM500L8              |            |            | single     |            |            |
 | Anjoy                 | YM-J10D              |            |            | single     |            |            |
-| Anjoy                 | ?-J30                | SSC377     | SC450AI or OS03A10| single | |       | no         |
-| Anjoy                 | ?-A42                |            | SS4336P    |            |            | no         |
+| Anjoy                 | ?-J30                |            | SC450AI or OS03A10| single | |       | no         |
+| Anjoy                 | MC-A42P-V1.1         | SSC377     | SC4336P    |            |            | no         |
 |                       |                      |            |            |            |            |            |
 | Vatilon / Huishi      | HS H8D               | SSC377     | GC4653     | single     | ready      |            |
 | Vatilon / Huishi      | HS H53  or P12H      | SSC378DE   | IMX415     | single     | ready      |            |
