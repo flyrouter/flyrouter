@@ -8,7 +8,7 @@
 | Vendor                | Model                | Processor  | Sensor     | Board      | Status     | Found      |
 |:--------------------: |:--------------------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | Anjoy                 | MC-L12B              | SSC30KQ    | IMX335     | single     | ready      |            |
-| Anjoy                 | MC-L12D              |            |            | single     |            |            |
+| Anjoy                 | MC-L12D              | SSC377D    |            | single     |            | yes        |
 | Anjoy                 | MC800S               | SSC338Q    | IMX415     | dual       | ready      |            |
 | Anjoy                 | MC800S-v3            | SSC338Q    | IMX415     | dual       | ready      |            |
 | Anjoy                 | YM200J2              | MSC313E    |            | single     |            |            |
@@ -18,7 +18,7 @@
 | Anjoy                 | MC-L12               |            |            | single     |            |            |
 | Anjoy                 | YM500L8              |            |            | single     |            |            |
 | Anjoy                 | YM-J10D              |            |            | single     |            |            |
-| Anjoy                 | ?-J30                |            | SC450AI or OS03A10| single | |       | no         |
+| Anjoy                 | ?-J30                | SSC377     | SC450AI or OS03A10| single | |       | no         |
 | Anjoy                 | MC-A42P-V1.1         | SSC377     | SC4336P    |            |            | no         |
 |                       |                      |            |            |            |            |            |
 | Vatilon / Huishi      | HS H8D               | SSC377     | GC4653     | single     | ready      |            |
