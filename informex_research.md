@@ -13,6 +13,7 @@
 | Anjoy                 | MC800S-v3            | SSC338Q    | IMX415     | dual       | ready      |            |
 | Anjoy                 | YM200J2              | MSC313E    |            | single     |            |            |
 | Anjoy                 | MC200J6              | SSC325     |            | single     |            |            |
+| Anjoy                 | MC-A35               | SSC335     |            | single     |            | yes        |
 | Anjoy                 | MS-J10               | SSC335     |            | single     | ready      |            |
 | Anjoy                 | MC-F40               | SSC337     |            | single     |            |            |
 | Anjoy                 | MC-L12               |            |            | single     |            |            |
