@@ -1,8 +1,16 @@
+[![OpenIPC logo][logo]][site_basic]
 
-## Majestic
+## Notes
 
-Install current DEV version for T31 (Lite)
+### Majestic
+
 ```
+# Install current DEV version for T31 (Lite)
 curl -L https://openipc.s3-eu-west-1.amazonaws.com/majestic.t31.lite.master.tar.bz2 -o - | bunzip2 | tar xf - -C /tmp
 mv /tmp/*/majestic /usr/bin
 ```
+
+
+[logo]: https://openipc.org/assets/openipc-logo-black.svg
+[site_basic]: https://openipc.org
+[telegram_en]: https://t.me/OpenIPC
