@@ -51,7 +51,7 @@ watch -n1 free -h
 
 ### DEVICES
 
-- http://172.19.32.219/image.jpg # SSC335D, RTMP, Veedo, Wowza
+- http://172.19.32.219/image.jpg # SSC335D+OS02G10, RTMP, Veedo, Wowza
 - http://172.17.32.218/image.jpg # T31L+SC2332, RTMP, Safel, SF VMS
 
 
