@@ -26,7 +26,7 @@ mv /tmp/*/majestic /usr/bin
 # Prepare RTMP
 cli -s .video0.size 1280x720
 cli -s .audio.enabled true
-cli -s .audio.codec alaw
+cli -s .audio.codec aac
 cli -s .audio.srate 8000
 cli -s .audio.volume 1
 cli -s .osd.enabled true
