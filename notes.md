@@ -20,6 +20,19 @@ curl -L https://openipc.s3-eu-west-1.amazonaws.com/majestic.t31.lite.master.tar.
 mv /tmp/*/majestic /usr/bin
 ```
 
+### SETTINGS
+
+```
+# Prepare RTMP
+cli -s .video0.size 1280x720
+cli -s .audio.enabled true
+cli -s .audio.codec alaw
+cli -s .audio.srate 8000
+cli -s .audio.volume 1
+cli -s .osd.enabled true
+cli -s .osd.template "RTMP | %F %T %Z"
+```
+
 
 ### SYSTEM
 
@@ -34,6 +47,12 @@ watch -n1 curl http://localhost/image.jpg -o /tmp/tmp
 # and
 watch -n1 free -h
 ```
+
+
+### DEVICES
+
+- http://172.19.32.219/image.jpg # SSC335D, RTMP, Veedo, Wowza
+- http://172.17.32.218/image.jpg # T31L+SC2332, RTMP, Safel, SF VMS
 
 
 [logo]: https://openipc.org/assets/openipc-logo-black.svg
