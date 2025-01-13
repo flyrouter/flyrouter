@@ -25,7 +25,7 @@ mv /tmp/*/majestic /usr/bin
 
 ```
 # Check software versions and hardware
-grep -e OPENIPC_VERSION /etc/os-release ; majestic -v ; ipcinfo -cs
+grep -e OPENIPC_VERSION /etc/os-release ; majestic -v ; diff /usr/bin/majestic /rom/usr/bin/majestic ; ipcinfo -cs
 ```
 
 ```
