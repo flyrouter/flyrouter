@@ -18,6 +18,10 @@ ffmpeg -re -i test.mp4 -c:v libx264 -c:a aac -f flv rtmp://my.server.com:1935/op
 # Install current DEV version for T31 (Lite)
 curl -L https://openipc.s3-eu-west-1.amazonaws.com/majestic.t31.lite.master.tar.bz2 -o - | bunzip2 | tar xf - -C /tmp
 mv /tmp/*/majestic /usr/bin
+
+# Install current DEV version for HI3516EV200 (Lite)
+curl -L https://openipc.s3-eu-west-1.amazonaws.com/majestic.hi3516ev200.lite.master.tar.bz2 -o - | bunzip2 | tar xf - -C /tmp
+mv /tmp/*/majestic /usr/bin
 ```
 
 ### SETTINGS
