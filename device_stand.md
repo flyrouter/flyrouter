@@ -8,7 +8,8 @@
 | Access                                                                   | Model                     | Processor     | Sensor      |  Network       | Flash   | Notes and Testing  |
 | :----------------------------------------------------------------------: | :-----------------------: | :-----------: | :---------: | :------------: | :-----: | :----------------: |
 | [172.19.32.42](http://root:123456@172.19.32.42/cgi-bin/preview.cgi)      | Tiandy                    | SSC337        | SC2336      | Ethernet       | NOR_?M  | Faceter            |
-| [172.19.32.194](http://root:123456@172.19.32.194/cgi-bin/preview.cgi)    | Tiandy                    | T21N          | JXF37       | Ethernet/WiFi  | NOR_8M  | Faceter, RTSP      |
+| [172.19.32.193](http://root:123456@172.19.32.193/cgi-bin/preview.cgi)    | iPupPee                   | T23N          | SP140A      | WiFi           | NOR_8M  | Faceter, RTSP      |
+| [172.19.32.194](http://root:123456@172.19.32.194/cgi-bin/preview.cgi)    | FishEy                    | T21N          | JXF37       | Ethernet/WiFi  | NOR_8M  | Faceter, RTSP      |
 | ---                                                                      | ---                       | ---           | ---         | ---            | ---     |
 | [172.17.32.184](http://root:123456@172.19.32.184/cgi-bin/preview.cgi)    | Tiandy                    | SSC337        | SC2336      | Ethernet       | NOR_?M  | Faceter            |
 | [172.17.32.191](http://root:123456@172.17.32.191/cgi-bin/preview.cgi)    | Plastiroma                | HI3518EV200   | JXF37       | WiFi           | NOR_8M  | Faceter            |
