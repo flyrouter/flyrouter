@@ -10,10 +10,15 @@
 | [172.19.32.42](http://root:123456@172.19.32.42/cgi-bin/preview.cgi)      | Tiandy                    | SSC337        | SC2336      | Ethernet       | NOR_?M  | Faceter            |
 | [172.19.32.61](http://root:123456@172.19.32.61/cgi-bin/preview.cgi)      | Anjoy                     | SSC377D       | IMX335      | Ethernet       | NOR_16M | Sobel test         |
 | [172.19.32.62](http://root:123456@172.19.32.62/cgi-bin/preview.cgi)      | Anjoy ASK-5D-VF           | SSC377D       | IMX335      | Ethernet       | NOR_16M | Areroskop / Atlas  |
+| [172.19.32.124](http://root:123456@172.19.32.124/cgi-bin/preview.cgi)    | HS303v3                   | HI3518EV200   | OV9732      | WiFi           | NOR_16M | Water counter      |
+| [172.19.32.127](http://root:123456@172.19.32.127/cgi-bin/preview.cgi)    |                           | HI3518EV200   | OV9732      | WiFi           | NOR_16M | Ant's place        |
 | [172.19.32.129](http://root:123456@172.19.32.129/cgi-bin/preview.cgi)    |                           | HI3518EV200   | JXF22       | WiFi           | NOR_16M |                    |
+| [172.19.32.171](http://root:123456@172.19.32.171/cgi-bin/preview.cgi)    |                           | SSC337        | SC2336      | Ethernet       | NOR_8M  | Cloud              |
 | [172.19.32.178](http://root:123456@172.19.32.178/cgi-bin/preview.cgi)    |                           | HI3516EV300   | IMX335      | Ethernet       | NOR_8M  | Cloud              |
+| [172.19.32.190](http://root:123456@172.19.32.190/cgi-bin/preview.cgi)    | Green Quad PoE board      | SSC325        | SC2239      | Ethernet       | NOR_8M  |                    |
 | [172.19.32.193](http://root:123456@172.19.32.193/cgi-bin/preview.cgi)    | iPupPee                   | T23N          | SP140A      | WiFi           | NOR_8M  | Faceter, RTSP      |
 | [172.19.32.194](http://root:123456@172.19.32.194/cgi-bin/preview.cgi)    | FishEy                    | T21N          | JXF37       | Ethernet/WiFi  | NOR_8M  | Faceter, RTSP      |
+| [172.19.32.209](http://root:123456@172.19.32.209/cgi-bin/preview.cgi)    | HS303v3                   | HI3518EV200   | OV9732      | WiFi           | NOR_16M | Workplace          |
 | ---                                                                      | ---                       | ---           | ---         | ---            | ---     |
 | [172.17.32.184](http://root:123456@172.19.32.184/cgi-bin/preview.cgi)    | Tiandy                    | SSC337        | SC2336      | Ethernet       | NOR_?M  | Faceter            |
 | [172.17.32.191](http://root:123456@172.17.32.191/cgi-bin/preview.cgi)    | Plastiroma                | HI3518EV200   | JXF37       | WiFi           | NOR_8M  | Faceter            |
