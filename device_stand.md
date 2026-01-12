@@ -8,6 +8,9 @@
 | Access                                                                   | Model                     | Processor     | Sensor      |  Network       | Flash   | Notes and Testing  |
 | :----------------------------------------------------------------------: | :-----------------------: | :-----------: | :---------: | :------------: | :-----: | :----------------: |
 | [172.19.32.42](http://root:123456@172.19.32.42/cgi-bin/preview.cgi)      | Tiandy                    | SSC337        | SC2336      | Ethernet       | NOR_?M  | Faceter            |
+| [172.19.32.61](http://root:123456@172.19.32.61/cgi-bin/preview.cgi)      | Anjoy                     | SSC377D       | IMX335      | Ethernet       | NOR_16M | Sobel test         |
+| [172.19.32.62](http://root:123456@172.19.32.62/cgi-bin/preview.cgi)      | Anjoy ASK-5D-VF           | SSC377D       | IMX335      | Ethernet       | NOR_16M | Areroskop / Atlas  |
+| [172.19.32.129](http://root:123456@172.19.32.129/cgi-bin/preview.cgi)    |                           | HI3518EV200   | JXF22       | WiFi           | NOR_16M |                    |
 | [172.19.32.178](http://root:123456@172.19.32.178/cgi-bin/preview.cgi)    |                           | HI3516EV300   | IMX335      | Ethernet       | NOR_8M  | Cloud              |
 | [172.19.32.193](http://root:123456@172.19.32.193/cgi-bin/preview.cgi)    | iPupPee                   | T23N          | SP140A      | WiFi           | NOR_8M  | Faceter, RTSP      |
 | [172.19.32.194](http://root:123456@172.19.32.194/cgi-bin/preview.cgi)    | FishEy                    | T21N          | JXF37       | Ethernet/WiFi  | NOR_8M  | Faceter, RTSP      |
