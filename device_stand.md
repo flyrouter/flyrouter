@@ -23,6 +23,8 @@
 | [172.17.32.184](http://root:123456@172.19.32.184/cgi-bin/preview.cgi)    | Tiandy                    | SSC337        | SC2336      | Ethernet       | NOR_?M  | Faceter            |
 | [172.17.32.191](http://root:123456@172.17.32.191/cgi-bin/preview.cgi)    | Plastiroma                | HI3518EV200   | JXF37       | WiFi           | NOR_8M  | Faceter            |
 | ---                                                                      | ---                       | ---           | ---         | ---            | ---     |
+| [44.188.200.137](http://root:123456@44.188.200.137/cgi-bin/preview.cgi)  | Aceline                   | T23N          | JXF37       | WiFi           | NOR_8M  | Lihogo-12          |
+| [44.188.200.138](http://root:123456@44.188.200.138/cgi-bin/preview.cgi)  | Aceline                   | T23N          | JXF37       | WiFi           | NOR_8M  | Lihogo-12          |
 | [44.188.200.139](http://root:123456@44.188.200.139/cgi-bin/preview.cgi)  | China Blue HDC-50         | HI3518EV300   | JXF37       | WiFi           | NOR_16M | Lihogo-12          |
 | [44.188.200.215](http://root:123456@44.188.200.215/cgi-bin/preview.cgi)  | Ruision RS-C2 / Vixand    | T23N          | JXF38P      | WiFi           | NOR_?M  | Sensor             |
 | [44.188.200.218](http://root:123456@44.188.200.218/cgi-bin/preview.cgi)  | HDC-51 A5                 | T21N          | SC2235      | WiFi           | NOR_16M | Lihogo-12          |
