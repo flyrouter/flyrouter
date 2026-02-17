@@ -55,6 +55,14 @@
 
 - http://44.188.200.199:85   # Tigressa
 
+#### UML
+
+graph LR
+    A[Source код] --> B(Buildroot)
+    B --> C{shc + no-pie}
+    C --> D[Binary RN114]
+
+
 
 
 [logo]: https://openipc.org/assets/openipc-logo-black.svg
