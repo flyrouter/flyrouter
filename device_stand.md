@@ -26,6 +26,7 @@
 | [44.188.200.137](http://root:123456@44.188.200.137/cgi-bin/preview.cgi)  | Aceline                   | T23N          | OS02G10     | WiFi           | NOR_8M  | Lihogo-12          |
 | [44.188.200.138](http://root:123456@44.188.200.138/cgi-bin/preview.cgi)  | Aceline                   | T23N          | OS02G10     | WiFi           | NOR_8M  | Lihogo-12          |
 | [44.188.200.139](http://root:123456@44.188.200.139/cgi-bin/preview.cgi)  | China Blue HDC-50         | HI3518EV300   | JXF37       | WiFi           | NOR_16M | Lihogo-12          |
+| [44.188.200.150](http://root:123456@44.188.200.150/cgi-bin/preview.cgi)  | CamHi                     | T31-?         | ?           | WiFi           | NOR_?M  | Tigressa           |
 | [44.188.200.215](http://root:123456@44.188.200.215/cgi-bin/preview.cgi)  | Ruision RS-C2 / Vixand    | T23N          | JXF38P      | WiFi           | NOR_?M  | Sensor             |
 | [44.188.200.218](http://root:123456@44.188.200.218/cgi-bin/preview.cgi)  | HDC-51 A5                 | T21N          | SC2235      | WiFi           | NOR_16M | Lihogo-12          |
 | [44.188.200.219](http://root:123456@44.188.200.219/cgi-bin/preview.cgi)  | China Blue HDC-50         | HI3518EV300   | JXF37       | WiFi           | NOR_16M | Lihogo-12          |
